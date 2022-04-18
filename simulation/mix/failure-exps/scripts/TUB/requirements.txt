@@ -1,0 +1,5 @@
+networkx
+python-igraph==0.8.0
+numpy
+scipy
+matplotlib
